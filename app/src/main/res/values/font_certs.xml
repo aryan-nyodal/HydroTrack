@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="com_google_android_gms_fonts_certs">
+        <item>@array/com_google_android_gms_fonts_certs_dev</item>
+        <item>@array/com_google_android_gms_fonts_certs_prod</item>
+    </array>
+    <string-array name="com_google_android_gms_fonts_certs_dev">
+        <item>
+            MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBCwUAMIGUMQswCQYDVQQGEwJVUzET
+            MBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHR29v
+            Z2xlMTExecutionMS1kZXBsb3ltZW50MRMwEQYDVQQDEwpHb29nbGUgR1NDMR4wHAYJKoZIhvcNAQkB
+            Fh9tYXR0aGV3LnJlaWQtZGV2QGdvb2dsZS5jb20wHhcNMTYwNjIzMTcyMTU5WhcNMjYwNjIxMTcy
+            MTU5WjCBlDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDU1vdW50
+            YWluIFZpZXcxEDAOBgNVBAoTB0dvb2dsZTEWMBQGA1UECxMNR29vZ2xlIFNlcnZpY2VzMRMwEQYD
+            VQQDEwpHb29nbGUgR1NDMR4wHAYJKoZIhvcNAQkBFh9tYXR0aGV3LnJlaWQtZGV2QGdvb2dsZS5j
+            b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCmFf7i57P3m6g6b9m+V5R4jBw1uL0E
+            u1z4W2u6B5o6p8/2T5p/1J9vWf0p3k5r6lq5b7m2q1r0q7o4v2m7m8p2n6p0v3o1u0s7q5m5
+        </item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs_prod">
+        <item>
+            MIIEQzCCAyugAwIBAgIJAMLpt0vdZuIOMA0GCSqGSIb3DQEBCwUAMIGQMQswCQYDVQQGEwJVUzET
+            MBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHR29v
+            Z2xlIENvcnBvcmF0aW9uMRowGAYDVQQLExFHb29nbGUgU2VydmljZXMxDDAKBgNVBAMTA0dGQzEe
+            MBwGCSqGSIb3DQEJARYPZ2ZjQGdvb2dsZS5jb20wHhcNMTYwNjIzMTcwODUxWhcNMjYwNjIxMTcw
+            ODUxWjCBkDELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDU1vdW50
+            YWluIFZpZXcxEDAOBgNVBAoTB0dvb2dsZSBDb3Jwb3JhdGlvbjEaMBgGA1UECxMRR29vZ2xlIFNl
+            cnZpY2VzMQwwCgYDVQQDEwNHRkMxHjAcBgkqhkiG9w0BCQEWD2dmY0Bnb29nbGUuY29tMIIBIjAN
+            BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1+nZfF4G5Hn1KjVq+s6kK7E5v8r1u2i0s2d4
+        </item>
+    </string-array>
+</resources>
