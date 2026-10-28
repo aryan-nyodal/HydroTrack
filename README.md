@@ -39,6 +39,13 @@
 
 ---
 
+## 🤖 Built with AI-Assisted Engineering
+This project was designed and built utilizing modern AI-assisted development workflows:
+- **System Architecture & Prompt Design:** Authored detailed technical specifications covering MVVM patterns, edge cases, and Android system constraints.
+- **Iterative Verification:** Validated code generation against real Android runtime lifecycles (Room database migrations, AlarmManager Doze-mode survivability).
+- **Quality Assurance:** Ensured 100% compilation and created comprehensive unit tests for core domain math (`StreakCalculatorTest`, `PointsCalculatorTest`).
+
+
 ## 🏗️ Architecture & Package Structure
 
 ```
